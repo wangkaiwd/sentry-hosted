@@ -17,6 +17,7 @@ bash install.sh
 ```
 
 ### Operate
+> [Command options overview and help](https://docs.docker.com/compose/reference/)
 
 under `self-hosted` execute:
 
@@ -26,3 +27,7 @@ under `self-hosted` execute:
 ### Sentry Admin
 
 * http://127.0.0.1:9000/admin
+
+### Failed
+
+Continue study sentry in linux server
